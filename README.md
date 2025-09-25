@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**hadiarashid/hadiarashid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Hadia Rashid  
+Introduction  
+I am a BS (Hons.) student in Applied Microbiology at the University of Veterinary and Animal Sciences, Lahore.
+I am passionate about  vaccinology  and exploring  AI-powered vaccine research  to contribute to global health and how science and technology  can be used to solve real world problems
+I’m also a science communicator, sharing research and ideas with wider audiences. https://scientiamag.org/flooded-again-the-science-and-policy-missteps-plaguing-resilience-in-swat/
+Skills & Tools  
+Research Skills: Microbiology techniques, Molecular biology basics, Data analysis  
+Other Tools: MS Office, Canva, Google Workspace  
+Contact Me  
+Email: hadiarashid751@gmail.com  
+Linkedin: www.linkedin.com/in/hadia-rashid-
+Feel free to explore my repositories and connect with me for collaboration!
